@@ -9,7 +9,7 @@ int main()
         scanf("%lf", &number);
         soma += number;
     }
-    while(number != 0.0);
+    while(number != 0.0); //while number is not equal 0
 
     printf("Soma = %.2lf",soma);
 
