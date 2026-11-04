@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define N 300
+#define N 19
 
 void leitura(int x[N])
 //vetor x é parametro de saida
